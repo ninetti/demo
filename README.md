@@ -1,0 +1,3 @@
+由于文件大小原因，故在此贴出解压包解压位置与顺序
+。idea/src/studentinfo/target这四个解压包解压到同一级目录下
+index。jsp解压包解压到target目录下的studentinfo目录下
